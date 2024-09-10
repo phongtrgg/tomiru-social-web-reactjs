@@ -1,0 +1,57 @@
+.success-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+   background-image: url(../../../assets/CustomerService/nnn.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+    }
+.success-title{
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 57px;
+}
+.success-package{
+    border: 3px dashed #229DF0;
+    border-radius: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    height: 120px;
+    margin-left: 35px;
+    margin-top: 30px;
+
+}
+
+.success-package-title{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(182, 181, 181);
+    text-align: center;
+}
+.success-package-unit{
+    font-size: 25px;
+    font-weight: 500;
+}
+.success-package-price{
+    font-size: 45px;
+    font-weight: 600
+}
+.success-text-back{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: rgb(182, 181, 181);
+    font-size: 18px;
+}
+.success-link{
+    text-decoration: none;
+    color: #229DF0;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: 500;
+}
